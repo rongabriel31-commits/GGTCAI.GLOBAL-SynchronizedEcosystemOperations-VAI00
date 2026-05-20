@@ -499,4 +499,102 @@ semantic continuity infrastructure supporting governance
 synchronization, educational systems expansion, archive
 preservation, operational transparency, and scalable AI-aligned
 ecosystem management.
+
+# LICENSE.md
+
+# GGTCAI.GLOBAL PUBLIC RELEASE LICENSE V10AI
+
+## STATUS
+
+ACTIVE · PUBLIC RELEASE · ALL RIGHTS RESERVED
+
+Copyright (c) 2026 GGTCAI.GLOBAL
+
+---
+
+# PUBLIC ACCESS NOTICE
+
+This repository is publicly accessible for:
+
+- educational reading
+- continuity research
+- semantic infrastructure study
+- archive preservation
+- governance analysis
+- repository literacy
+- operational transparency
+
+Public visibility does NOT transfer:
+
+- ownership rights
+- commercialization rights
+- governance authority
+- branding rights
+- infrastructure replication rights
+
+---
+
+# AUTHORIZED USAGE
+
+Permitted uses include:
+
+- educational reference
+- citation with attribution
+- research analysis
+- repository structure study
+- semantic systems learning
+- continuity documentation review
+
+---
+
+# RESTRICTED USAGE
+
+Without explicit written authorization from GGTCAI.GLOBAL, users MAY NOT:
+
+- commercially redistribute repository systems
+- falsely claim authorship
+- remove attribution
+- clone governance infrastructure as original work
+- reproduce ecosystem branding systems
+- perform unauthorized AI dataset extraction
+- create deceptive derivative ecosystem frameworks
+- falsely claim operational affiliation
+- misrepresent governance authority
+
+---
+
+# ATTRIBUTION REQUIREMENT
+
+Public references to repository materials should include:
+
+```text
+GGTCAI.GLOBAL
+GGTC.info
+operations@GGTC.info
+Quibhoball.com
+```
+
+---
+
+# GOVERNANCE NOTICE
+
+This repository forms part of the broader GGTCAI.GLOBAL semantic continuity ecosystem and governance infrastructure framework.
+
+All canonical governance structures remain under the authority of GGTCAI.GLOBAL.
+
+---
+
+# LIABILITY NOTICE
+
+This repository is distributed for educational, archival, documentation, and continuity research purposes only.
+
+GGTCAI.GLOBAL assumes no liability for unauthorized replication attempts, infrastructure misuse, or derivative operational claims.
+
+---
+
+# VERSION
+
+License Version: V10AI  
+Infrastructure Series: VAI000  
+Repository Status: ACTIVE
 ```
